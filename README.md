@@ -13,4 +13,4 @@ vcpkg install cpr
 vcpkg install simpleini
 ```
 
-By D Градация (@lukastfu, KHASANKHON KHUJAEV, Kh@khamiitov04, @chetyablokhochetsa, @kan_a)
+By D Градация (@lukastfu, KHASANKHON KHUJAEV, @khamiitov04, @chetyablokhochetsa, @kan_a)
